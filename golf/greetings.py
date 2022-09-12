@@ -2,4 +2,4 @@ import random
 
 
 def greet():
-    return "Alpha World %s" % str(random.randint(0, 10))
+    return "Hola World %s" % str(random.randint(0, 10))
